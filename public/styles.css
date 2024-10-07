@@ -1,0 +1,13 @@
+.heading {
+  color: blue;
+}
+ul {
+  color: brown;
+}
+body {
+  background-color: cyan;
+}
+.border {
+  width: 90px;
+  height: max-content;
+}
